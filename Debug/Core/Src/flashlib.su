@@ -1,0 +1,3 @@
+flashlib.c:33:19:FlashErasePages	40	static
+flashlib.c:68:19:FlashWriteArr	56	static
+flashlib.c:119:6:FlashReadArr	56	static
